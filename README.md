@@ -30,7 +30,7 @@ I'm a self-directed learner, constantly expanding my skill set. I've delved into
 
 ## 🌟 Featured Projects
 
-### 🚀 Career Ticket - Umurava - Design
+###  Career Ticket - Umurava - Design
 *This is a design I created for a design competition: "Umurava Skills Challenge"*
 
 - **Technologies used:** Figma 
@@ -40,7 +40,7 @@ I'm a self-directed learner, constantly expanding my skill set. I've delved into
 
 ---
 
-### ✨ Loyal Consultancy - Website
+###  Loyal Consultancy - Website
 *This is landing page for a company called Loyal Consulatncy where I was a designer and web developper*
 
 - **Technologies used:** Figma, Wix  
@@ -51,7 +51,7 @@ I'm a self-directed learner, constantly expanding my skill set. I've delved into
 
 ---
 
-### 🎨 Video Production Portfolio website concept
+###  Video Production Portfolio website concept
 *This is a landing page for a video production company to show case their expertise*
 
 - **Technologies used:** Figma
