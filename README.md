@@ -30,6 +30,15 @@ I'm a self-directed learner, constantly expanding my skill set. I've delved into
 
 ## 🌟 Featured Projects
 
+###  TOSNEYUI - Portfolio - Design
+*This is a design I created for my personal design portfolio "*
+
+- **Technologies used:** Figma - Anima 
+[🔗 Portfolio](https://www.figma.com/proto/9sYsZ8GHIougXOyTGBTnJC/TOSNEYUI?page-id=0%3A1&node-id=2-2&p=f&viewport=401%2C171%2C0.06&t=qVRvmBbQ8f1DU6YJ-1&scaling=min-zoom&content-scaling=fixed)
+
+<!-- screenshot can go here -->
+
+---
 ###  Career Ticket - Umurava - Design
 *This is a design I created for a design competition: "Umurava Skills Challenge"*
 
