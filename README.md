@@ -1,20 +1,14 @@
 # Hi there, I'm INEZA Ndahirwa Sosthene! 👋
 
-**UI/UX Designer | Software Engineer | App Developer**
-
-Welcome to my GitHub portfolio! I'm a passionate and versatile technolog enthusiast with a keen eye for design and a solid foundation in software development. My journey in tech is fueled by a love for problem-solving and creating intuitive, impactful digital experiences.
-
+**Aspiring computer engineer**
 ---
 
 ## 🧑‍💻 About Me
 
-With a background in Mathematics, Physics, and Computer Science, I bring a unique analytical approach to every project. My high school studies provided me with a strong grounding in programming languages like C++, Java, and Visual Basic, alongside foundational knowledge in networking, computer security, and computer systems—including file handling and Object-Oriented Programming (OOP) principles.
-
-I'm a self-directed learner, constantly expanding my skill set. I've delved into Python (including completing CS50P), Dart, and Flutter, enabling me to build robust applications and contribute to complex software engineering challenges. While my primary focus is on app development and software engineering, my proficiency in Figma for UI/UX design ensures that the projects I work on are not only functional but also user-centric and aesthetically pleasing.
-
+Math-minded developer coding in multiple languages—from C++ to Flutter—who codes with a stress on designs with purpose.
 ---
 
-## 🛠️ My Expertise
+## 🛠️ My skills
 
 | Category            | Skills & Tools                                                                 |
 |---------------------|--------------------------------------------------------------------------------|
