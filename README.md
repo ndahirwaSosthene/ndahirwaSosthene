@@ -57,5 +57,5 @@ Let's talk!
 ```javascript
 // I guess this is it.
 ```
-
-![Ineza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndahirwaSosthene&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- 
+![Ineza's GitHub stats](https://github-stats-extended.vercel.app/api?username=ndahirwaSosthene&show_icons=true&theme=tokyonight&hide_border=true) -->
